@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SaaS churn prediction<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Rust<br>💬 Ask me about effective stakeholder sponsorship<br>⚡ Fun fact I ❤️ bouldering
+🔭 I’m currently working on SaaS churn prediction<br>👯 I’m looking to collaborate on <br>🌱 I’m currently using Rust <br>⚡ Fun fact I ❤️ bouldering
 
 
 ## 🌐 Socials:
